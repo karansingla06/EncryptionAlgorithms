@@ -1,4 +1,4 @@
 # EncryptionAlgorithms
-Implementation of encryption algorithms like AES, RC4, Blowfish using C++
+Implementation of Encryption Algorithms such as AES, RC4, Blowfish using C++
 
-Completed during Bachelors
+It was a mini-project completed during Bachelors.
